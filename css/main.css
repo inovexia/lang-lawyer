@@ -63,6 +63,9 @@ Primary use:
   .l1-txt1.p-b-34.respon3.main-title {
     font-size: 40px;
   }
+  #subscribeForm{
+    display:none;
+  }
 }
 @media (min-width:993px) {
   .wrappic1.logo-box {
